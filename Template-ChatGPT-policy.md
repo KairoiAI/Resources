@@ -1,5 +1,7 @@
 ![alt text](https://github.com/KairoiAI/Branding/blob/main/Logo/Kairoi_Logo_Small.png?raw=true)
 
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbaSBuaNdK1CJdItKhfQduinGR2p2xHSq7Kax-0WHJq2Xa2Qqg">
+
 # Template ChatGPT Use Policy
 This is a sample ChatGPT Use Policy from Kairoi that you can use to create your own policy for your organisation. The policy is developed in the spirit of other use policies we find in the workplace. For example, there are often limitations on how employees can use the internet at work, including certain sites such as Facebook or TikTok. With the great potential for tools like ChatGPT to support the work we do, it is crucial that we use it safely and responsibly. Whilst this policy is targeted at ChatGPT, you are encouraged to apply it to other AI systems that may be in use at your organisation.
 
