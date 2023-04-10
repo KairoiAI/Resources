@@ -44,3 +44,8 @@ At [org name], we value the privacy and intellectual property rights of our empl
 Furthermore, under [org name]’s view, all ChatGPT’s outputs are of the user’s intellectual property, unless, either:
 * Resulting from prompts involving information from [org name], rendering [org name] the rightful intellectual property owner; or
 * The outputs are directly relevant to your work as an employee, such that the intellectual property clause in your contract is enforced.
+
+---
+
+# How You Can Help
+To comment on this template document, go to [issue #1](https://github.com/KairoiAI/Resources/issues/1).
