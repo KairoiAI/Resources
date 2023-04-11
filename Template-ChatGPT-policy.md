@@ -22,6 +22,7 @@ At **[org name]**, we value the potential for novel technologies to aid us in ou
 It is good practice to keep the following in mind when using ChatGPT:
 * ChatGPT is a tool, like using Google to browse the internet, or Word to write documents
 * When you type into ChatGPT, you are giving information to the system’s developers at OpenAI
+* Ask yourself whether ChatGPT is the best tool for the task at hand (ask your colleagues or supervisor if you're not sure)
 * Each time you start a new chat on ChatGPT, you are starting “from scratch” in the sense that it cannot reference other chats you had with it
 * ChatGPT can provide inaccurate information, and all its responses must be carefully checked for errors
 * ChatGPT is best used to feed back on one’s own work, and not to scrutinise others’ efforts
