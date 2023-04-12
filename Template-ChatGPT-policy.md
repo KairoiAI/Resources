@@ -37,6 +37,7 @@ ChatGPT cannot be used in ways that may undermine **[org name]**’s security an
 * Seek feedback on job applicants’ CVs by pasting them in in part or in full
 * Type out or paste proprietary code, documents or other information that is not intended for the public eye
 * Type out or paste content that is subject to copyright licenses that do not allow for their indiscriminate sharing
+
 Failure to comply with this section of the present policy will result in disciplinary action and can lead to termination of employment.
 
 ## Acceptable Uses
