@@ -43,7 +43,8 @@ Failure to comply with this section of the present policy will result in discipl
 ChatGPT is a powerful tool that can help streamline certain processes, revise text and structure thoughts. Below are suggested ways you can make the most of ChatGPT in a responsible way.
 * Ask for a spell-check to ensure proper grammar (for example: "Please check the grammar of this sentence: "these processes must be seperated"")
 * Ask for better ways to word a sentence (for example: “What's a better way of saying "our service is faster and more efficient"?”)
-* Ask for the outline of reports if it is the first report of the sort (for example: “What's a useful outline of a recruitment report?”)Ask for the outline of a blogpost for inspiration (for example: I need to write a blogpost introducing privacy-enhancing technologies – how could it be structured?”)
+* Ask for the outline of reports if it is the first report of the sort (for example: “What's a useful outline of a recruitment report?”)
+* Ask for the outline of a blogpost for inspiration (for example: I need to write a blogpost introducing privacy-enhancing technologies – how could it be structured?”)
 
 ## **[Org name]**’s Promise to You
 At **[org name]**, we value the privacy and intellectual property rights of our employees. Whilst [org name] may monitor your use of devices property of [org name], we will not increase our monitoring for the purpose of ChatGPT. Unless there is reason to suspect a breach of the present policy, monitoring by the IT department will continue in line with the **[Computer Use Policy]**.
