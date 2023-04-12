@@ -58,3 +58,7 @@ Furthermore, under [org name]’s view, all ChatGPT’s outputs are of the user�
 
 # How You Can Help
 To comment on this template document, go to [issue #1](https://github.com/KairoiAI/Resources/issues/1).
+
+# Using this file
+Simply copy and paste the content into your preferred text processor. Our only ask is that you acknowledge and respect this template's license by adding the following line in a clearly visible part of your document:
+> Based on Template ChatGPT Use Policy by Kairoi Ltd (2023) | kairoi.uk | CC-BY 4.0
