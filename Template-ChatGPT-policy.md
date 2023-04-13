@@ -11,7 +11,7 @@ Whilst this policy specifically governs the use of ChatGPT in the workplace, you
 ---
 
 ## Context and Scope
-Artificial Intelligence (AI) tools are becoming increasingly useful and accessible. In particular, generative AI systems have become a part of many professionals’ workflows. Generative AI systems include those that produce text or.images in response to queries. In practice, text-to-image tools can be used by publishers to create visuals, and artists to aid them through the creative process. Similarly, chatbots based on large language models (LLMs) can help write blogposts, emails and reports. LLMs are AI systems that produce text based on enourmous amounts of text used as training data. ChatGPT is one such LLM-based chatbot.
+Artificial Intelligence (AI) tools are becoming increasingly useful and accessible. In particular, generative AI systems have become a part of many professionals’ workflows. Generative AI systems include those that produce text or images in response to queries. In practice, text-to-image tools can be used by publishers to create visuals, and artists to aid them through the creative process. Similarly, chatbots based on large language models (LLMs) can help write blogposts, emails and reports. LLMs are AI systems that produce text based on enourmous amounts of text used as training data. ChatGPT is one such LLM-based chatbot.
 
 ChatGPT is an online chatbot that can be used for free by signing up with an email and mobile number. Whilst [org name] cannot provide you with login credentials nor monitor your use of ChatGPT on personal devices, we do have a 
 Use Policy whereby your use of devices of **[org name]**’s property are subject to relevant monitoring procedures. The present ChatGPT Use Policy complements and in no way supersedes [org name]’s **[Computer Use Policy]**, and applies to all staff employed by or seconded to **[org name]**.
@@ -20,7 +20,7 @@ At **[org name]**, we value the potential for novel technologies to aid us in ou
 
 ## General Guidelines
 It is good practice to keep the following in mind when using ChatGPT:
-* ChatGPT is a tool, like using Google to browse the internet, or Word to write documents
+* ChatGPT is a tool, similar to using Google to browse the internet, or Word to write documents
 * When you type into ChatGPT, you are giving information to the system’s developers at OpenAI
 * Ask yourself whether ChatGPT is the best tool for the task at hand (ask your colleagues or supervisor if you're not sure)
 * Each time you start a new chat on ChatGPT, you are starting “from scratch” in the sense that it cannot reference other chats you had with it
