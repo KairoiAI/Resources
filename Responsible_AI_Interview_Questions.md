@@ -45,4 +45,5 @@ The questions are intentionally vague, so that they apply to many contexts. Notw
 
 # References
 ¹ Kherroubi Garcia, I. ([2023]([url](https://kairoi.uk/blog/another-piece-of-the-ai-ethics-puzzle/))) Another Piece of the AI Ethics Puzzle, _Kairoi_
+
 ² For example, you may have a version of the our [_Template ChatGPT Use Policy_](https://github.com/KairoiAI/Resources/blob/main/Template-ChatGPT-policy.md)
