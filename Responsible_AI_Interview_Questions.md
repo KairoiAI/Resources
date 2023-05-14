@@ -32,7 +32,7 @@ The questions are intentionally vague, so that they apply to many contexts. Notw
 |---|---|
 | Keeping abreast of news in responsible AI, and communicating its relevance | What recent “scandal” have you heard of in the AI world, and why is it relevant to this department? |
 | Experience of credibly articulating risks from AI systems and influencing change | Tell us of a time you identified some risks in a technology deployed at your workplace, and how you communicated this risk to colleagues. What was the outcome? |
-| Ability to identify risks when evaluating AI systems | When identifying systems to deploy in your department, we have a process that involves the IT team’s oversight to ensure certain safety standards are met. However, standards are constantly evolving and emerging in the realm of artificial intelligence technologies. What do you look out for when evaluating AI-based systems to purchase? |
+| Ability to identify risks when evaluating AI systems for deployment | When identifying systems to deploy in your department, we have a process that involves the IT team’s oversight to ensure certain safety standards are met. However, standards are constantly evolving and emerging in the realm of artificial intelligence technologies. What do you look out for when evaluating AI-based systems to purchase? |
 | Ability to plan for the responsible implementation of AI systems| If successful in this process, you will oversee the implementation of AI systems into the department’s processes. This can affect staff across the organisation. How do you ensure their knowledgeable and safe use of these systems? |
 
 ## Questions for End Users
