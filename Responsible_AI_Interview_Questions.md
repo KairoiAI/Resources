@@ -16,6 +16,10 @@ The questions are categorised according to your type of organisation or the depa
 *	**End users:** These are individuals who use AI technologies – in other words, all employees.
 The questions are intentionally vague, so that they apply to many contexts. Notwithstanding, the questions are paired with criteria against which you may assess job candidates’ responsible AI readiness. We encourage you to reach out via hello@kairoi.uk for us to help you design more tailored questions.
 
+You are encouraged to provide feedback on the questions by commenting on the related [issue]([url](https://github.com/KairoiAI/Resources/issues/5)) (requires signing in to GitHub).
+
+If you want support in effectively designing and encouraging practices that protect your organisation and be a part of the responsible AI movement, please reach out to use at Kairoi via hello@kairoi.uk.
+
 | You are free to copy and adapt these questions. Whilst we don’t expect you to acknowledge that the questions are from this repository during interviews, we encourage you to cite this resource in recruitment and other HR reports as follows: “Based on Responsible AI Interview Questions by Kairoi Ltd (2023) / kairoi.uk / CC-BY 4.0” |
 |---|
 
