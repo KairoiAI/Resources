@@ -1,4 +1,7 @@
+<img src="https://github.com/KairoiAI/Branding/blob/main/Logo/Kairoi_Logo_Small.png?raw=true" alt="Kairoi logo" align="right">
+
 # Resources
+
 This repository contains resources developed by Kairoi.
 You are encouraged to contribute by navigating to the relevant issue.
 Substantive work will be acknowledged at the point of releasing resources.
