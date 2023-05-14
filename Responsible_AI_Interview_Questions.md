@@ -22,26 +22,26 @@ The questions are intentionally vague, so that they apply to many contexts. Notw
 ## Questions for Innovators
 | Assessed criterion | Question |
 |---|---|
-| Keeping abreast of news in responsible AI, and communicating its relevance | What recent “scandal” have you heard of in the AI world, and why does it matter to you? |
-| Ability to credibly speculate and articulate future risks from AI R&D	| The AI systems we develop come with unforeseeable downstream consequences. Do you agree with this and why? |
-| Experience identifying and mitigating social harms from technical systems |	Tell us of a time you made a suggestion for a product or system you were developing to mitigate against unjust biases or concerns the public may have. |
-| Ability to credibly speculate amd articulate potential benefits AI R&D | If you are successful in this recruitment process, you will be involved with the development of [X systems], which is intended to [Y applications]. Please tell us of potential uses of this system, beyond the aforementioned intended uses. |
+| Keeping abreast of news in responsible AI, and communicating its relevance | What recent “scandal” have you heard of in the AI world, and <br>why does it matter to you? |
+| Ability to credibly speculate and articulate future risks from AI R&D	| The AI systems we develop come with unforeseeable downstream <br>consequences. Do you agree with this and why? |
+| Experience identifying and mitigating social harms from technical systems |	Tell us of a time you made a suggestion for a product or system you <br>were developing to mitigate against unjust biases or concerns the public may have. |
+| Ability to credibly speculate amd articulate potential benefits AI R&D | If you are successful in this recruitment process, you will be involved <br>with the development of [X systems], which is intended to [Y applications]. <br>Please tell us of potential uses of this system, beyond the aforementioned intended uses. |
 
 ## Questions for Buyers
 | Assessed criterion | Question |
 |---|---|
-| Keeping abreast of news in responsible AI, and communicating its relevance | What recent “scandal” have you heard of in the AI world, and why is it relevant to this department? |
-| Experience of credibly articulating risks from AI systems and influencing change | Tell us of a time you identified some risks in a technology deployed at your workplace, and how you communicated this risk to colleagues. What was the outcome? |
-| Ability to identify risks when evaluating AI systems for deployment | When identifying systems to deploy in your department, we have a process that involves the IT team’s oversight to ensure certain safety standards are met. However, standards are constantly evolving and emerging in the realm of artificial intelligence technologies. What do you look out for when evaluating AI-based systems to purchase? |
-| Ability to plan for the responsible implementation of AI systems| If successful in this process, you will oversee the implementation of AI systems into the department’s processes. This can affect staff across the organisation. How do you ensure their knowledgeable and safe use of these systems? |
+| Keeping abreast of news in responsible AI, and communicating its relevance | What recent “scandal” have you heard of in the AI world, and <br>why is it relevant to this department? |
+| Experience of credibly articulating risks from AI systems and influencing change | Tell us of a time you identified some risks in a technology deployed <br>at your workplace, and how you communicated this risk to colleagues. <br>What was the outcome? |
+| Ability to identify risks when evaluating AI systems for deployment | When identifying systems to deploy in your department, we have a process <br>that involves the IT team’s oversight to ensure certain safety standards are met. <br>However, standards are constantly evolving and emerging in the realm of artificial intelligence technologies. <br>What do you look out for when evaluating AI-based systems to purchase? |
+| Ability to plan for the responsible implementation of AI systems| If successful in this process, you will oversee the implementation of AI <br>systems into the department’s processes. This can affect staff across the organisation. <br>How do you ensure their knowledgeable and safe use of these systems? |
 
 ## Questions for End Users
 | Assessed criterion | Question |
 |---|---|
-| Keeping abreast of news in responsible AI, and communicating its relevance | What recent “scandal” have you heard of in the AI world, and why does it matter to you? |
-| Ability to credibly articulate risks from the use of AI in the workplace | We use various AI systems across the organisation to make tasks easier for many of our staff. If you are successful in this process, you will use [X system],which helps [Y application]. Whilst we are transparent about our usage of AI systems, we understand there might be concerns about with working with such technologies. What concerns are you aware of around the use of AI systems in the workplace? (This isn’t a trick question!) |
-| Ability to credibly articulate potential uses of AI in the workplace | What potential do you see for modern technologies for the job you are applying to? |
-| Awareness of our publicly communicated AI safety policies² | There are many freely accessible AI systems at the disposal of the general public and, therefore, staff. Please tell us of one of our intiatives to ensure safe and responsible usage of such technologies. |
+| Keeping abreast of news in responsible AI, and communicating its relevance | What recent “scandal” have you heard of in the AI world, <br>and why does it matter to you? |
+| Ability to credibly articulate risks from the use of AI in the workplace | We use various AI systems across the organisation to make tasks<br> easier for many of our staff. If you are successful in this process, <br>you will use [X system],which helps [Y application]. <br>Whilst we are transparent about our usage of AI systems, <br>we understand there might be concerns about with working with such technologies. <br>What concerns are you aware of around the use of AI systems in the workplace? (This isn’t a trick question!) |
+| Ability to credibly articulate potential uses of AI in the workplace | What potential do you see for modern technologies for <br>the job you are applying to? |
+| Awareness of our publicly communicated AI safety policies² | There are many freely accessible AI systems at the disposal of the <br>general public and, therefore, staff. <br>Please tell us of one of our intiatives to ensure safe and responsible <br>usage of such technologies. |
 
 # References
 ¹ Kherroubi Garcia, I. ([2023]([url](https://kairoi.uk/blog/another-piece-of-the-ai-ethics-puzzle/))) Another Piece of the AI Ethics Puzzle, _Kairoi_
