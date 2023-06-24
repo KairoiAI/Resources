@@ -4,4 +4,5 @@
 
 * This folder captures content available at [kairoi.uk](https://kairoi.uk) and [our LinkedIn page](https://linkedin.com/company/kairoi).
 * The files above are listed in chronological order, with the most recent content at the bottom.
+* _Kairoi Summaries_ are bitesize presentations about trends, practices and policy conerning artificial intelligence.
 * For our latest news and industry insights, see [our blog](https://kairoi.uk/blog).
