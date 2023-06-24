@@ -2,6 +2,6 @@
 
 # Static files
 
-This folder captures content available via our [website](https://kairoi.uk) and [LinkedIn](https://linkedin.com/company/kairoi).
-
-For our latest news and industry insights, see [our blog](https://kairoi.uk/blog).
+* This folder captures content available at [kairoi.uk](https://kairoi.uk) and [our LinkedIn page](https://linkedin.com/company/kairoi).
+* The files above are listed in chronological order, with the most recent content at the bottom.
+* For our latest news and industry insights, see [our blog](https://kairoi.uk/blog).
