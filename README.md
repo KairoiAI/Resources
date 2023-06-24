@@ -4,14 +4,16 @@
 
 This repository contains resources developed by Kairoi.
 You are encouraged to contribute by navigating to the relevant issue.
-Substantive work will be acknowledged at the point of releasing resources.
+Substantive contributions will be acknowledged at the point of launching resources.
 * To comment on [Responsible AI Interview Questions](https://github.com/KairoiAI/Resources/blob/main/Responsible_AI_Interview_Questions.md), go to [issue #5](https://github.com/KairoiAI/Resources/issues/5).
 * To comment on the [Template ChatGPT Use Policy](https://github.com/KairoiAI/Resources/blob/main/Template-ChatGPT-policy.md), go to [issue #1](https://github.com/KairoiAI/Resources/issues/1).
 
 ## Referencing
-The resources are made available under CC BY 4.0. Please reference them as follows:
+The resources are made available under CC BY 4.0. Please reference them as follows in your own adaptations:
 | Based on [insert resource's name] by Kairoi Ltd (2023) / kairoi.uk / CC-BY 4.0 |
 |---|
+
+If you usually use GitHub, we encourage you to keep adaptations public by forking the repository. This is especially encouraged for direct translations of the resources.
 
 ## Acknowledging Authorship and Contributions
 GitHub helps attribute authorship and contributions.
