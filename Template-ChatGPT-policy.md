@@ -13,11 +13,11 @@ Take a look at our [blog post](https://kairoi.uk/blog/generative-ai-use-policy/)
 2. Should you apply it to different systems or to types of technologies more generally (e.g.: "generative AI tools"), make sure to provide a definition of impacted systems, as well as a list of relevant tools.
 If you only provide a definition of the technologies the policy covers, it can be difficult for staff to know whether a certain tool is affected or not.
 Conversely, if you only provide a list of systems covered by the policy, it is likely that other tools can be used instead, and possibly at even greater risk.
-3. You may also choose to integrate this policy into a broader Internet Use Policy if you have one, rather than have a specific policy for ChatGPT.
+3. You may also choose to integrate this policy into a broader Internet Use Policy if you have one, rather than having a specific policy for ChatGPT.
 4. The template policy below serves as a starting point for governing the use of ChatGPT in the workplace.
 We advise that you adapt it and reference specific activities pertinent to your organisation’s industry or domain.
 5. The template makes reference to a _Computer Use Policy_ (which your IT department might have) and to intellectual property clauses in employment contracts.
-Please make sure to reference your organisation’s own policies.
+Please make sure to reference your organisation’s own policies and adapt as needed. It is key that this policy is consistent with other internal policies you may have.
 6. This template is free for you to use, adapt and share.
 You are also encouraged to provide feedback onthe template by commenting on the related [issue]([url](https://github.com/KairoiAI/Resources/issues/1)) (requires signing in to GitHub).
 7. If you want support in effectively designing and rolling out AI-related policies that educate your staff and protect your organisation, please reach out to use at Kairoi via hello@kairoi.uk.
