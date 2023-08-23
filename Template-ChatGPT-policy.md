@@ -80,7 +80,7 @@ ChatGPT is a powerful tool that can help streamline certain processes, revise te
 * Ask for better ways to word a sentence (for example: “What's a better way of saying "our service is faster and more efficient"?”)
 * Ask for the outline of reports if it is the first report of the sort (for example: “What's a useful outline of a recruitment report?”)
 * Ask for the outline of a blogpost for inspiration (for example: I need to write a blogpost introducing privacy-enhancing technologies – how could it be structured?”)
-* Ask for feedback on snippets of code or help with Excel formulas (for example: "I am using Excel. Column A has the price "$10" and column B has the number of avocados offered at this rate ("2"). How do I get the price per avocado in column C?")
+* Ask for feedback on snippets of code or help with Excel formulas (for example: "I am using Excel. Column A has the price "$10" and column B has the number of items offered at this rate ("2"). How do I get the price per item in column C?")
 
 ## **[Org name]**’s Promise to You
 At **[org name]**, we value the privacy and intellectual property rights of our employees. Whilst **[org name]** may monitor your use of devices property of **[org name]**, we will not increase our monitoring for the purpose of ChatGPT. Unless there is reason to suspect a breach of the present policy, monitoring by the IT department will continue in line with the **[_Computer Use Policy_]**.
