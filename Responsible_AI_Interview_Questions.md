@@ -12,7 +12,7 @@ Crucially, these questions help job candidates understand that your organisation
 
 The questions are categorised according to your type of organisation or the department you are recruiting for: either innovators, buyers or end users.¹
 * **Innovators:** These are the people and organisations who are developing the latest AI. For example, these questions are useful for engineers, data scientists and product managers.
-*	**Buyers:** These are the people and organisations who make decisions about procuring and implementing technologies that impact fellow staff and memebers of the public. For example, these questions can help recruit for HR, finance, operations and IT departments. Schools, hospitals and other public service organisations can also gain from using these questions.
+*	**Buyers:** These are the people and organisations who make decisions about procuring and implementing technologies that impact fellow staff and members of the public. For example, these questions can help recruit for HR, finance, operations and IT departments. Schools, hospitals and other public service organisations can also gain from using these questions.
 *	**End users:** These are individuals who use AI technologies – in other words, all employees.
 The questions are intentionally vague, so that they apply to many contexts. Notwithstanding, the questions are paired with criteria against which you may assess job candidates’ responsible AI readiness. We encourage you to reach out via hello@kairoi.uk for us to help you design more tailored questions.
 
